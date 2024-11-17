@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: teal
   theme_day: Minimal
   theme_night: Minimal
   font: custom1
