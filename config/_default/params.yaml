@@ -7,17 +7,21 @@
 appearance:
   mode: system
   color: emerald
+  theme_day: Minimal
+  theme_night: Minimal
+  font: custom1
+  font_size: m
 
 # SEO
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'McGill University'
+    description: 'academic website for Brian E Robinson and lab members. Focuses on environment, development, ecology, ecosystems, livelihoods, ecosystem services, policy, statistics.'
+    twitter: 'brianer'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-JBRPEY89KF'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -35,12 +39,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Brian E Robinson"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Brian E Robinson. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -58,3 +62,15 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+content:
+  coordinates:
+    latitude: '45.504647925721784'
+    longitude: '-73.57496652278526'
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
