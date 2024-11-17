@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Others | REaLL</title>
+    <link>http://localhost:1313/author/others/</link>
+      <atom:link href="http://localhost:1313/author/others/index.xml" rel="self" type="application/rss+xml" />
+    <description> Others</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title> Others</title>
+      <link>http://localhost:1313/author/others/</link>
+    </image>
+    
+    <item>
+      <title>A global evidence map of human well-being and biodiversity co-benefits and trade-offs of natural climate solutions</title>
+      <link>http://localhost:1313/publication/chang-2024-global/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chang-2024-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global perspectives and transdisciplinary opportunities for locust and grasshopper pest management and research</title>
+      <link>http://localhost:1313/publication/word-2024-global/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/word-2024-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hundreds of millions of people in the tropics need both wild harvests and other forms of economic development for their well-being</title>
+      <link>http://localhost:1313/publication/wells-2024-hundreds/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wells-2024-hundreds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing environmental knowledge networks to navigate complexity</title>
+      <link>http://localhost:1313/publication/holzer-2024-managing/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/holzer-2024-managing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature’s contribution to poverty alleviation, human wellbeing and the SDGs</title>
+      <link>http://localhost:1313/publication/poudyal-2024-nature/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/poudyal-2024-nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Impact of Household Energy Transition on Winter Indoor Air Quality in Rural Beijing, China: Field Evidence and Implications</title>
+      <link>http://localhost:1313/publication/li-2023-assessing/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2023-assessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geospatial modelling and socioeconomic inequalities of transportation, human, and nature-based sounds in Accra, Ghana</title>
+      <link>http://localhost:1313/publication/clark-2023-geospatial/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/clark-2023-geospatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying deprived “slum” neighbourhoods in the Greater Accra Metropolitan Area of Ghana using census and remote sensing data</title>
+      <link>http://localhost:1313/publication/mactavish-2023-identifying/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mactavish-2023-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millions of People in the Tropics Harvest Wild Resources, but Other Socio-Economic Factors Are also Important for Their Wellbeing</title>
+      <link>http://localhost:1313/publication/wells-2023-millions/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wells-2023-millions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenotyping urban built and natural environments with high-resolution satellite images and unsupervised deep learning</title>
+      <link>http://localhost:1313/publication/metzler-2023-phenotyping/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/metzler-2023-phenotyping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strangers in a strange land: Mapping household and neighbourhood associations with improved wellbeing outcomes in Accra, Ghana</title>
+      <link>http://localhost:1313/publication/cavanaugh-2023-strangers/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cavanaugh-2023-strangers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing the links between secure housing tenure and health for more equitable cities</title>
+      <link>http://localhost:1313/publication/baumgartner-2023-synthesizing/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/baumgartner-2023-synthesizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Field measurements of indoor and community air quality in rural Beijing before, during, and after the COVID-19 lockdown</title>
+      <link>http://localhost:1313/publication/li-2022-field/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2022-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal exposures to PM2. 5 in rural Beijing, China: Spatial-temporal variation patterns and modeling approaches</title>
+      <link>http://localhost:1313/publication/li-2022-personal/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2022-personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying within-city inequalities in child mortality across neighbourhoods in Accra, Ghana: a Bayesian spatial analysis</title>
+      <link>http://localhost:1313/publication/bixby-2022-quantifying/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bixby-2022-quantifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socioeconomic and demographic associations with wintertime air pollution exposures at household, community, and district scales in rural Beijing, China</title>
+      <link>http://localhost:1313/publication/li-2022-socioeconomic/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2022-socioeconomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial heterogeneity in drinking water sources in the Greater Accra Metropolitan Area (GAMA), Ghana</title>
+      <link>http://localhost:1313/publication/tetteh-2022-spatial/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tetteh-2022-spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial modelling and inequalities of environmental noise in Accra, Ghana</title>
+      <link>http://localhost:1313/publication/clark-2022-spatial/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/clark-2022-spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategy games to improve environmental policymaking</title>
+      <link>http://localhost:1313/publication/garcia-2022-strategy/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garcia-2022-strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Before the Next COP: How to Stop Missing our Environmental Policy Targets</title>
+      <link>http://localhost:1313/publication/garcia-2021-before/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garcia-2021-before/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental inequality of personal exposure to PM2. 5 and black carbon (BC) within-and between-communities in rural Beijing, China</title>
+      <link>http://localhost:1313/publication/li-2021-environmental/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2021-environmental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increasing decision relevance of ecosystem service science</title>
+      <link>http://localhost:1313/publication/mandle-2021-increasing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mandle-2021-increasing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of land tenure interventions on human well-being and environmental outcomes</title>
+      <link>http://localhost:1313/publication/tseng-2021-influence/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tseng-2021-influence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of heating energy on indoor air quality and its association with socioeconomic status in rural Beijing</title>
+      <link>http://localhost:1313/publication/li-2021-influence/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2021-influence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of village spillover and stove use on wintertime outdoor PM2. 5 in villages transitioning to clean heating in China</title>
+      <link>http://localhost:1313/publication/brehmer-2021-role/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/brehmer-2021-role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Household transitions to clean energy in a multiprovincial cohort study in China</title>
+      <link>http://localhost:1313/publication/carter-2020-household/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/carter-2020-household/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do practitioners characterize land tenure security?</title>
+      <link>http://localhost:1313/publication/masuda-2020-practitioners/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/masuda-2020-practitioners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The global forest transition as a human affair</title>
+      <link>http://localhost:1313/publication/garcia-2020-global/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garcia-2020-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To bend the curve of terrestrial biodiversity, place agency centre stage</title>
+      <link>http://localhost:1313/publication/garcia-2020-bend/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garcia-2020-bend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Air Quality, Home Heating, and Well-Being under Beijing’s Ban on Household Coal Burning</title>
+      <link>http://localhost:1313/publication/carter-2019-air/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/carter-2019-air/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligning evidence generation and use across health, development, and environment</title>
+      <link>http://localhost:1313/publication/tallis-2019-aligning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tallis-2019-aligning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land rights in sustainability</title>
+      <link>http://localhost:1313/publication/zaehringer-2019-land/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zaehringer-2019-land/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land Rights in Sustainability: Rights and Responsibilities</title>
+      <link>http://localhost:1313/publication/zahringer-2019-land/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zahringer-2019-land/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realizing the values of natural capital for inclusive, sustainable development: Informing China’s new ecological development strategy</title>
+      <link>http://localhost:1313/publication/zheng-2019-realizing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zheng-2019-realizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reimagining the potential of Earth observations for ecosystem service assessments</title>
+      <link>http://localhost:1313/publication/ramirez-2019-reimagining/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ramirez-2019-reimagining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating land tenure security into conservation</title>
+      <link>http://localhost:1313/publication/robinson-2018-incorporating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/robinson-2018-incorporating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response to Kabisch and Colleagues</title>
+      <link>http://localhost:1313/publication/rieb-2018-response/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rieb-2018-response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From molecules to management: mechanisms and consequences of locust phase polyphenism</title>
+      <link>http://localhost:1313/publication/cullen-2017-molecules/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cullen-2017-molecules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the global governance context for land tenure security</title>
+      <link>http://localhost:1313/publication/kelly-2017-mapping/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kelly-2017-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When, where, and how nature matters for ecosystem services: challenges for the next generation of ecosystem service models</title>
+      <link>http://localhost:1313/publication/rieb-2017-and/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rieb-2017-and/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-studies in land use science: Current coverage and prospects</title>
+      <link>http://localhost:1313/publication/van-2016-meta/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/van-2016-meta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

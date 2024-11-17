@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Honor Bixby | REaLL</title>
+    <link>http://localhost:1313/author/honor-bixby/</link>
+      <atom:link href="http://localhost:1313/author/honor-bixby/index.xml" rel="self" type="application/rss+xml" />
+    <description>Honor Bixby</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Honor Bixby</title>
+      <link>http://localhost:1313/author/honor-bixby/</link>
+    </image>
+    
+    <item>
+      <title>Mapping socio-economic status using mixed data: a hierarchical Bayesian approach</title>
+      <link>http://localhost:1313/publication/virgili-2024-mapping/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/virgili-2024-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying deprived “slum” neighbourhoods in the Greater Accra Metropolitan Area of Ghana using census and remote sensing data</title>
+      <link>http://localhost:1313/publication/mactavish-2023-identifying/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mactavish-2023-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strangers in a strange land: Mapping household and neighbourhood associations with improved wellbeing outcomes in Accra, Ghana</title>
+      <link>http://localhost:1313/publication/cavanaugh-2023-strangers/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cavanaugh-2023-strangers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying within-city inequalities in child mortality across neighbourhoods in Accra, Ghana: a Bayesian spatial analysis</title>
+      <link>http://localhost:1313/publication/bixby-2022-quantifying/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bixby-2022-quantifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial heterogeneity in drinking water sources in the Greater Accra Metropolitan Area (GAMA), Ghana</title>
+      <link>http://localhost:1313/publication/tetteh-2022-spatial/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tetteh-2022-spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying vulnerable urban neighbourhoods and their environmental, density, and housing characteristics in Accra, Ghana using census and remote sensing data</title>
+      <link>http://localhost:1313/publication/mactavish-2021-identifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mactavish-2021-identifying/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

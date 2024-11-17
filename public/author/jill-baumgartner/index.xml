@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jill Baumgartner | REaLL</title>
+    <link>http://localhost:1313/author/jill-baumgartner/</link>
+      <atom:link href="http://localhost:1313/author/jill-baumgartner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jill Baumgartner</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Jill Baumgartner</title>
+      <link>http://localhost:1313/author/jill-baumgartner/</link>
+    </image>
+    
+    <item>
+      <title>Mapping socio-economic status using mixed data: a hierarchical Bayesian approach</title>
+      <link>http://localhost:1313/publication/virgili-2024-mapping/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/virgili-2024-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Based Prediction for Small Domains Using Covariates: A Comparison of Four Methods</title>
+      <link>http://localhost:1313/publication/michal-2024-model/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/michal-2024-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Impact of Household Energy Transition on Winter Indoor Air Quality in Rural Beijing, China: Field Evidence and Implications</title>
+      <link>http://localhost:1313/publication/li-2023-assessing/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2023-assessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small Area Estimation with Random Forests and the LASSO</title>
+      <link>http://localhost:1313/publication/michal-2023-small/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/michal-2023-small/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing the links between secure housing tenure and health for more equitable cities</title>
+      <link>http://localhost:1313/publication/baumgartner-2023-synthesizing/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/baumgartner-2023-synthesizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Field measurements of indoor and community air quality in rural Beijing before, during, and after the COVID-19 lockdown</title>
+      <link>http://localhost:1313/publication/li-2022-field/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2022-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal exposures to PM2. 5 in rural Beijing, China: Spatial-temporal variation patterns and modeling approaches</title>
+      <link>http://localhost:1313/publication/li-2022-personal/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2022-personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socioeconomic and demographic associations with wintertime air pollution exposures at household, community, and district scales in rural Beijing, China</title>
+      <link>http://localhost:1313/publication/li-2022-socioeconomic/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2022-socioeconomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial heterogeneity in drinking water sources in the Greater Accra Metropolitan Area (GAMA), Ghana</title>
+      <link>http://localhost:1313/publication/tetteh-2022-spatial/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tetteh-2022-spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental inequality of personal exposure to PM2. 5 and black carbon (BC) within-and between-communities in rural Beijing, China</title>
+      <link>http://localhost:1313/publication/li-2021-environmental/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2021-environmental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying vulnerable urban neighbourhoods and their environmental, density, and housing characteristics in Accra, Ghana using census and remote sensing data</title>
+      <link>http://localhost:1313/publication/mactavish-2021-identifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mactavish-2021-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying within-city inequalities in child mortality across neighbourhoods in Accra, Ghana.</title>
+      <link>http://localhost:1313/publication/bennett-2021-quantifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bennett-2021-quantifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of heating energy on indoor air quality and its association with socioeconomic status in rural Beijing</title>
+      <link>http://localhost:1313/publication/li-2021-influence/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2021-influence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of village spillover and stove use on wintertime outdoor PM2. 5 in villages transitioning to clean heating in China</title>
+      <link>http://localhost:1313/publication/brehmer-2021-role/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/brehmer-2021-role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An evaluation of air quality, home heating and well-being under Beijing’s programme to eliminate household coal use</title>
+      <link>http://localhost:1313/publication/barrington-2019-evaluation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barrington-2019-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of the Impact of New Subway Stations on Public Transit Mode Share Using a Quasi-Experimental Design (Montreal, Canada)</title>
+      <link>http://localhost:1313/publication/goudreau-2018-assessment/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/goudreau-2018-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial household-and village-level impacts of residential coal use restrictions on indoor air quality in rural homes in Beijing, China</title>
+      <link>http://localhost:1313/publication/li-2018-initial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2018-initial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the challenges and rewards of social-ecological research in China</title>
+      <link>http://localhost:1313/publication/van-2012-understanding/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/van-2012-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cultivating a demand for clean cookstoves</title>
+      <link>http://localhost:1313/publication/robinson-2011-cultivating/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/robinson-2011-cultivating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

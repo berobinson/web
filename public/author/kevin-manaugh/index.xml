@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Manaugh | REaLL</title>
+    <link>http://localhost:1313/author/kevin-manaugh/</link>
+      <atom:link href="http://localhost:1313/author/kevin-manaugh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kevin Manaugh</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Kevin Manaugh</title>
+      <link>http://localhost:1313/author/kevin-manaugh/</link>
+    </image>
+    
+    <item>
+      <title>Geographic versus institutional drivers of nitrogen footprints: a comparison of two urban universities</title>
+      <link>http://localhost:1313/publication/macdonald-2020-geographic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/macdonald-2020-geographic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of the Impact of New Subway Stations on Public Transit Mode Share Using a Quasi-Experimental Design (Montreal, Canada)</title>
+      <link>http://localhost:1313/publication/goudreau-2018-assessment/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/goudreau-2018-assessment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuta J Masuda | REaLL</title>
+    <link>http://localhost:1313/author/yuta-j-masuda/</link>
+      <atom:link href="http://localhost:1313/author/yuta-j-masuda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuta J Masuda</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Yuta J Masuda</title>
+      <link>http://localhost:1313/author/yuta-j-masuda/</link>
+    </image>
+    
+    <item>
+      <title>Emerging Research Needs and Policy Priorities for Advancing Land Tenure Security and Sustainable Development</title>
+      <link>http://localhost:1313/publication/masuda-2022-emerging/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/masuda-2022-emerging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land tenure security and sustainable development</title>
+      <link>http://localhost:1313/publication/holland-2022-land/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/holland-2022-land/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Property rights, tenure form, and tenure security</title>
+      <link>http://localhost:1313/publication/masuda-2022-property/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/masuda-2022-property/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do practitioners characterize land tenure security?</title>
+      <link>http://localhost:1313/publication/masuda-2020-practitioners/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/masuda-2020-practitioners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating land tenure security into conservation</title>
+      <link>http://localhost:1313/publication/robinson-2018-incorporating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/robinson-2018-incorporating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How does indigeneity influence socio-ecological conditions in community forests?: A systematic review protocol</title>
+      <link>http://localhost:1313/publication/holland-2017-does/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/holland-2017-does/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the global governance context for land tenure security</title>
+      <link>http://localhost:1313/publication/kelly-2017-mapping/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kelly-2017-mapping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

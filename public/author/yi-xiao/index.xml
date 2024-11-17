@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi Xiao | REaLL</title>
+    <link>http://localhost:1313/author/yi-xiao/</link>
+      <atom:link href="http://localhost:1313/author/yi-xiao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yi Xiao</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Yi Xiao</title>
+      <link>http://localhost:1313/author/yi-xiao/</link>
+    </image>
+    
+    <item>
+      <title>Realizing the values of natural capital for inclusive, sustainable development: Informing China’s new ecological development strategy</title>
+      <link>http://localhost:1313/publication/zheng-2019-realizing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zheng-2019-realizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INCREASING THE VALUE OF CHINA&#39;S ENVIRONMENT FOR RECREATION: THE CASE OF JIUZHAIGOU, SICHUAN.</title>
+      <link>http://localhost:1313/publication/cheng-2017-increasing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cheng-2017-increasing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

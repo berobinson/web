@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandra M Schmidt | REaLL</title>
+    <link>http://localhost:1313/author/alexandra-m-schmidt/</link>
+      <atom:link href="http://localhost:1313/author/alexandra-m-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandra M Schmidt</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Alexandra M Schmidt</title>
+      <link>http://localhost:1313/author/alexandra-m-schmidt/</link>
+    </image>
+    
+    <item>
+      <title>Mapping socio-economic status using mixed data: a hierarchical Bayesian approach</title>
+      <link>http://localhost:1313/publication/virgili-2024-mapping/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/virgili-2024-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Based Prediction for Small Domains Using Covariates: A Comparison of Four Methods</title>
+      <link>http://localhost:1313/publication/michal-2024-model/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/michal-2024-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying deprived “slum” neighbourhoods in the Greater Accra Metropolitan Area of Ghana using census and remote sensing data</title>
+      <link>http://localhost:1313/publication/mactavish-2023-identifying/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mactavish-2023-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small Area Estimation with Random Forests and the LASSO</title>
+      <link>http://localhost:1313/publication/michal-2023-small/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/michal-2023-small/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strangers in a strange land: Mapping household and neighbourhood associations with improved wellbeing outcomes in Accra, Ghana</title>
+      <link>http://localhost:1313/publication/cavanaugh-2023-strangers/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cavanaugh-2023-strangers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying within-city inequalities in child mortality across neighbourhoods in Accra, Ghana: a Bayesian spatial analysis</title>
+      <link>http://localhost:1313/publication/bixby-2022-quantifying/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bixby-2022-quantifying/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Berry | REaLL</title>
+    <link>http://localhost:1313/author/kevin-berry/</link>
+      <atom:link href="http://localhost:1313/author/kevin-berry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kevin Berry</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Kevin Berry</title>
+      <link>http://localhost:1313/author/kevin-berry/</link>
+    </image>
+    
+    <item>
+      <title>Global perspectives and transdisciplinary opportunities for locust and grasshopper pest management and research</title>
+      <link>http://localhost:1313/publication/word-2024-global/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/word-2024-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ecological insurance trap</title>
+      <link>http://localhost:1313/publication/berry-2019-ecological/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/berry-2019-ecological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From molecules to management: mechanisms and consequences of locust phase polyphenism</title>
+      <link>http://localhost:1313/publication/cullen-2017-molecules/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cullen-2017-molecules/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jon F Harrison | REaLL</title>
+    <link>http://localhost:1313/author/jon-f-harrison/</link>
+      <atom:link href="http://localhost:1313/author/jon-f-harrison/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jon F Harrison</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Jon F Harrison</title>
+      <link>http://localhost:1313/author/jon-f-harrison/</link>
+    </image>
+    
+    <item>
+      <title>Locust migration in coupled natural human systems: Connecting soil nitrogen, outbreaks, livelihoods, and livestock markets</title>
+      <link>http://localhost:1313/publication/cease-2016-locust/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cease-2016-locust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Living with locusts: connecting soil nitrogen, locust outbreaks, livelihoods, and livestock markets</title>
+      <link>http://localhost:1313/publication/cease-2015-living/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cease-2015-living/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

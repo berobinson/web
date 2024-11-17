@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Robinson | REaLL</title>
+    <link>http://localhost:1313/author/b-robinson/</link>
+      <atom:link href="http://localhost:1313/author/b-robinson/index.xml" rel="self" type="application/rss+xml" />
+    <description>B Robinson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>B Robinson</title>
+      <link>http://localhost:1313/author/b-robinson/</link>
+    </image>
+    
+    <item>
+      <title>Air Quality, Home Heating, and Well-Being under Beijing’s Ban on Household Coal Burning</title>
+      <link>http://localhost:1313/publication/carter-2019-air/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/carter-2019-air/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing forests and overlapping tenure in the Ecuadorian Amazon: implications for the future implementation of SocioBosque</title>
+      <link>http://localhost:1313/publication/holland-2010-changing/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/holland-2010-changing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

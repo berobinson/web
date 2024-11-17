@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enming Rao | REaLL</title>
+    <link>http://localhost:1313/author/enming-rao/</link>
+      <atom:link href="http://localhost:1313/author/enming-rao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Enming Rao</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Enming Rao</title>
+      <link>http://localhost:1313/author/enming-rao/</link>
+    </image>
+    
+    <item>
+      <title>INCREASING THE VALUE OF CHINA&#39;S ENVIRONMENT FOR RECREATION: THE CASE OF JIUZHAIGOU, SICHUAN.</title>
+      <link>http://localhost:1313/publication/cheng-2017-increasing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cheng-2017-increasing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

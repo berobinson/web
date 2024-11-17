@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elena M Bennett | REaLL</title>
+    <link>http://localhost:1313/author/elena-m-bennett/</link>
+      <atom:link href="http://localhost:1313/author/elena-m-bennett/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elena M Bennett</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Elena M Bennett</title>
+      <link>http://localhost:1313/author/elena-m-bennett/</link>
+    </image>
+    
+    <item>
+      <title>Managing environmental knowledge networks to navigate complexity</title>
+      <link>http://localhost:1313/publication/holzer-2024-managing/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/holzer-2024-managing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Substitutability of natural and human capitals: lessons from a simple exploratory model</title>
+      <link>http://localhost:1313/publication/rieb-2023-substitutability/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rieb-2023-substitutability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Property rights play a pivotal role in the distribution of ecosystem services among beneficiaries</title>
+      <link>http://localhost:1313/publication/dade-2022-property/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dade-2022-property/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lael Parrott | REaLL</title>
+    <link>http://localhost:1313/author/lael-parrott/</link>
+      <atom:link href="http://localhost:1313/author/lael-parrott/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lael Parrott</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Lael Parrott</title>
+      <link>http://localhost:1313/author/lael-parrott/</link>
+    </image>
+    
+    <item>
+      <title>A functional connectivity approach for exploring interactions of multiple ecosystem services in the context of agricultural landscapes in the Canadian prairies</title>
+      <link>http://localhost:1313/publication/pashanejad-2024-functional/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pashanejad-2024-functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The application of semantic modelling to map pollination service provisioning at large landscape scales</title>
+      <link>http://localhost:1313/publication/pashanejad-2023-application/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pashanejad-2023-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next steps for ecosystem service models: integrating complex interactions and beneficiaries</title>
+      <link>http://localhost:1313/publication/thierry-2021-next/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/thierry-2021-next/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

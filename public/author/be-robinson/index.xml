@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BE Robinson | REaLL</title>
+    <link>http://localhost:1313/author/be-robinson/</link>
+      <atom:link href="http://localhost:1313/author/be-robinson/index.xml" rel="self" type="application/rss+xml" />
+    <description>BE Robinson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 21:15:18 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>BE Robinson</title>
+      <link>http://localhost:1313/author/be-robinson/</link>
+    </image>
+    
+    <item>
+      <title>S1 Normative stance in quantitative foodshed studies</title>
+      <link>http://localhost:1313/publication/schreibers-1/</link>
+      <pubDate>Sun, 17 Nov 2024 21:15:18 +0000</pubDate>
+      <guid>http://localhost:1313/publication/schreibers-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facing the challenges of using place-based social-ecological research to support ecosystem service governance at multiple scales</title>
+      <link>http://localhost:1313/publication/bennett-2021-facing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bennett-2021-facing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How does indigeneity influence socio-ecological conditions in community forests?: A systematic review protocol</title>
+      <link>http://localhost:1313/publication/holland-2017-does/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/holland-2017-does/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

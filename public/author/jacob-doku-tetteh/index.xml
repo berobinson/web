@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacob Doku Tetteh | REaLL</title>
+    <link>http://localhost:1313/author/jacob-doku-tetteh/</link>
+      <atom:link href="http://localhost:1313/author/jacob-doku-tetteh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jacob Doku Tetteh</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Jacob Doku Tetteh</title>
+      <link>http://localhost:1313/author/jacob-doku-tetteh/</link>
+    </image>
+    
+    <item>
+      <title>Phenotyping urban built and natural environments with high-resolution satellite images and unsupervised deep learning</title>
+      <link>http://localhost:1313/publication/metzler-2023-phenotyping/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/metzler-2023-phenotyping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial heterogeneity in drinking water sources in the Greater Accra Metropolitan Area (GAMA), Ghana</title>
+      <link>http://localhost:1313/publication/tetteh-2022-spatial/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tetteh-2022-spatial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

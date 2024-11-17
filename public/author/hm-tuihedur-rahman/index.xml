@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HM Tuihedur Rahman | REaLL</title>
+    <link>http://localhost:1313/author/hm-tuihedur-rahman/</link>
+      <atom:link href="http://localhost:1313/author/hm-tuihedur-rahman/index.xml" rel="self" type="application/rss+xml" />
+    <description>HM Tuihedur Rahman</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>HM Tuihedur Rahman</title>
+      <link>http://localhost:1313/author/hm-tuihedur-rahman/</link>
+    </image>
+    
+    <item>
+      <title>How do capital asset interactions affect livelihood sensitivity to climatic stresses? Insights from the northeastern floodplains of Bangladesh</title>
+      <link>http://localhost:1313/publication/rahman-2018-capital/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rahman-2018-capital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Livelihood exposure to climatic stresses in the north-eastern floodplains of Bangladesh</title>
+      <link>http://localhost:1313/publication/rahman-2018-livelihood/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rahman-2018-livelihood/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

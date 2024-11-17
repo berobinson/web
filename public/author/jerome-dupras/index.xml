@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jérôme Dupras | REaLL</title>
+    <link>http://localhost:1313/author/jerome-dupras/</link>
+      <atom:link href="http://localhost:1313/author/jerome-dupras/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jérôme Dupras</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Jérôme Dupras</title>
+      <link>http://localhost:1313/author/jerome-dupras/</link>
+    </image>
+    
+    <item>
+      <title>The ePEStemology database: a meta-analysis of 15 years of research on knowledge claims of Payments for Ecosystem Services (PES)</title>
+      <link>http://localhost:1313/publication/kolinjivadi-2023-epestemology/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kolinjivadi-2023-epestemology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David R Crook | REaLL</title>
+    <link>http://localhost:1313/author/david-r-crook/</link>
+      <atom:link href="http://localhost:1313/author/david-r-crook/index.xml" rel="self" type="application/rss+xml" />
+    <description>David R Crook</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>David R Crook</title>
+      <link>http://localhost:1313/author/david-r-crook/</link>
+    </image>
+    
+    <item>
+      <title>The impact of snowstorms, droughts and locust outbreaks on livestock production in Inner Mongolia: anticipation and adaptation to environmental shocks</title>
+      <link>http://localhost:1313/publication/crook-2020-impact/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/crook-2020-impact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

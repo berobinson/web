@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lisa Naughton-Treves | REaLL</title>
+    <link>http://localhost:1313/author/lisa-naughton-treves/</link>
+      <atom:link href="http://localhost:1313/author/lisa-naughton-treves/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lisa Naughton-Treves</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Lisa Naughton-Treves</title>
+      <link>http://localhost:1313/author/lisa-naughton-treves/</link>
+    </image>
+    
+    <item>
+      <title>Community land titles alone will not protect forests</title>
+      <link>http://localhost:1313/publication/robinson-2017-community/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/robinson-2017-community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the global governance context for land tenure security</title>
+      <link>http://localhost:1313/publication/kelly-2017-mapping/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kelly-2017-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex tenure and deforestation: implications for conservation incentives in the Ecuadorian Amazon</title>
+      <link>http://localhost:1313/publication/holland-2014-complex/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/holland-2014-complex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does secure land tenure save forests? A meta-analysis of the relationship between land tenure and tropical deforestation</title>
+      <link>http://localhost:1313/publication/robinson-2014-does/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/robinson-2014-does/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

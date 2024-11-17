@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiangyang Hou | REaLL</title>
+    <link>http://localhost:1313/author/xiangyang-hou/</link>
+      <atom:link href="http://localhost:1313/author/xiangyang-hou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiangyang Hou</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Xiangyang Hou</title>
+      <link>http://localhost:1313/author/xiangyang-hou/</link>
+    </image>
+    
+    <item>
+      <title>How do herders do well? Profitability potential of livestock grazing in Inner Mongolia, China, across ecosystem types</title>
+      <link>http://localhost:1313/publication/li-2018-herders/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2018-herders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Institutional change in social-ecological systems: The evolution of grassland management in Inner Mongolia</title>
+      <link>http://localhost:1313/publication/robinson-2017-institutional/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/robinson-2017-institutional/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

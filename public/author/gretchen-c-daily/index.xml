@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gretchen C Daily | REaLL</title>
+    <link>http://localhost:1313/author/gretchen-c-daily/</link>
+      <atom:link href="http://localhost:1313/author/gretchen-c-daily/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gretchen C Daily</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Gretchen C Daily</title>
+      <link>http://localhost:1313/author/gretchen-c-daily/</link>
+    </image>
+    
+    <item>
+      <title>Time and space catch up with restoration programs that ignore ecosystem service trade-offs</title>
+      <link>http://localhost:1313/publication/li-2021-time/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2021-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response to Kabisch and Colleagues</title>
+      <link>http://localhost:1313/publication/rieb-2018-response/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rieb-2018-response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When, where, and how nature matters for ecosystem services: challenges for the next generation of ecosystem service models</title>
+      <link>http://localhost:1313/publication/rieb-2017-and/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rieb-2017-and/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using ecosystem service trade-offs to inform water conservation policies and management practices</title>
+      <link>http://localhost:1313/publication/zheng-2016-using/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zheng-2016-using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefits, costs, and livelihood implications of a regional payment for ecosystem service program</title>
+      <link>http://localhost:1313/publication/zheng-2013-benefits/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zheng-2013-benefits/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

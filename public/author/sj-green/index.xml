@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SJ Green | REaLL</title>
+    <link>http://localhost:1313/author/sj-green/</link>
+      <atom:link href="http://localhost:1313/author/sj-green/index.xml" rel="self" type="application/rss+xml" />
+    <description>SJ Green</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>SJ Green</title>
+      <link>http://localhost:1313/author/sj-green/</link>
+    </image>
+    
+    <item>
+      <title>Facing the challenges of using place-based social-ecological research to support ecosystem service governance at multiple scales</title>
+      <link>http://localhost:1313/publication/bennett-2021-facing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bennett-2021-facing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

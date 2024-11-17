@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jesse T Rieb | REaLL</title>
+    <link>http://localhost:1313/author/jesse-t-rieb/</link>
+      <atom:link href="http://localhost:1313/author/jesse-t-rieb/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jesse T Rieb</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Jesse T Rieb</title>
+      <link>http://localhost:1313/author/jesse-t-rieb/</link>
+    </image>
+    
+    <item>
+      <title>Substitutability of natural and human capitals: lessons from a simple exploratory model</title>
+      <link>http://localhost:1313/publication/rieb-2023-substitutability/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rieb-2023-substitutability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response to Kabisch and Colleagues</title>
+      <link>http://localhost:1313/publication/rieb-2018-response/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rieb-2018-response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When, where, and how nature matters for ecosystem services: challenges for the next generation of ecosystem service models</title>
+      <link>http://localhost:1313/publication/rieb-2017-and/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rieb-2017-and/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

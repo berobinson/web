@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jian Wu | REaLL</title>
+    <link>http://localhost:1313/author/jian-wu/</link>
+      <atom:link href="http://localhost:1313/author/jian-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jian Wu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Jian Wu</title>
+      <link>http://localhost:1313/author/jian-wu/</link>
+    </image>
+    
+    <item>
+      <title>A review of spatial targeting methods of payment for ecosystem services</title>
+      <link>http://localhost:1313/publication/guo-2020-review/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/guo-2020-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victoire Michal | REaLL</title>
+    <link>http://localhost:1313/author/victoire-michal/</link>
+      <atom:link href="http://localhost:1313/author/victoire-michal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Victoire Michal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Victoire Michal</title>
+      <link>http://localhost:1313/author/victoire-michal/</link>
+    </image>
+    
+    <item>
+      <title>Model-Based Prediction for Small Domains Using Covariates: A Comparison of Four Methods</title>
+      <link>http://localhost:1313/publication/michal-2024-model/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/michal-2024-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small Area Estimation with Random Forests and the LASSO</title>
+      <link>http://localhost:1313/publication/michal-2023-small/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/michal-2023-small/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kate Schreckenberg | REaLL</title>
+    <link>http://localhost:1313/author/kate-schreckenberg/</link>
+      <atom:link href="http://localhost:1313/author/kate-schreckenberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kate Schreckenberg</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 21:15:18 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Kate Schreckenberg</title>
+      <link>http://localhost:1313/author/kate-schreckenberg/</link>
+    </image>
+    
+    <item>
+      <title>How Do Common Pool Natural Resources Affect Rural Poverty and Inequality? A Multi-Country Comparison</title>
+      <link>http://localhost:1313/publication/dascommon/</link>
+      <pubDate>Sun, 17 Nov 2024 21:15:18 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dascommon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hundreds of millions of people in the tropics need both wild harvests and other forms of economic development for their well-being</title>
+      <link>http://localhost:1313/publication/wells-2024-hundreds/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wells-2024-hundreds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature’s contribution to poverty alleviation, human wellbeing and the SDGs</title>
+      <link>http://localhost:1313/publication/poudyal-2024-nature/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/poudyal-2024-nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millions of People in the Tropics Harvest Wild Resources, but Other Socio-Economic Factors Are also Important for Their Wellbeing</title>
+      <link>http://localhost:1313/publication/wells-2023-millions/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wells-2023-millions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

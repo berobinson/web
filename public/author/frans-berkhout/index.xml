@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frans Berkhout | REaLL</title>
+    <link>http://localhost:1313/author/frans-berkhout/</link>
+      <atom:link href="http://localhost:1313/author/frans-berkhout/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frans Berkhout</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Frans Berkhout</title>
+      <link>http://localhost:1313/author/frans-berkhout/</link>
+    </image>
+    
+    <item>
+      <title>Strangers in a strange land: Mapping household and neighbourhood associations with improved wellbeing outcomes in Accra, Ghana</title>
+      <link>http://localhost:1313/publication/cavanaugh-2023-strangers/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cavanaugh-2023-strangers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing the links between secure housing tenure and health for more equitable cities</title>
+      <link>http://localhost:1313/publication/baumgartner-2023-synthesizing/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/baumgartner-2023-synthesizing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

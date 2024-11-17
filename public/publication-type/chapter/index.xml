@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter | REaLL</title>
+    <link>http://localhost:1313/publication-type/chapter/</link>
+      <atom:link href="http://localhost:1313/publication-type/chapter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chapter</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Chapter</title>
+      <link>http://localhost:1313/publication-type/chapter/</link>
+    </image>
+    
+    <item>
+      <title>Emerging Research Needs and Policy Priorities for Advancing Land Tenure Security and Sustainable Development</title>
+      <link>http://localhost:1313/publication/masuda-2022-emerging/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/masuda-2022-emerging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Property rights, tenure form, and tenure security</title>
+      <link>http://localhost:1313/publication/masuda-2022-property/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/masuda-2022-property/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From molecules to management: mechanisms and consequences of locust phase polyphenism</title>
+      <link>http://localhost:1313/publication/cullen-2017-molecules/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cullen-2017-molecules/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

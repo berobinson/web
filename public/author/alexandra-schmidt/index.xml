@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandra Schmidt | REaLL</title>
+    <link>http://localhost:1313/author/alexandra-schmidt/</link>
+      <atom:link href="http://localhost:1313/author/alexandra-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandra Schmidt</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Alexandra Schmidt</title>
+      <link>http://localhost:1313/author/alexandra-schmidt/</link>
+    </image>
+    
+    <item>
+      <title>Identifying vulnerable urban neighbourhoods and their environmental, density, and housing characteristics in Accra, Ghana using census and remote sensing data</title>
+      <link>http://localhost:1313/publication/mactavish-2021-identifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mactavish-2021-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying within-city inequalities in child mortality across neighbourhoods in Accra, Ghana.</title>
+      <link>http://localhost:1313/publication/bennett-2021-quantifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bennett-2021-quantifying/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

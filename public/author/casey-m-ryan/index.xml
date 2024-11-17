@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Casey M Ryan | REaLL</title>
+    <link>http://localhost:1313/author/casey-m-ryan/</link>
+      <atom:link href="http://localhost:1313/author/casey-m-ryan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Casey M Ryan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Casey M Ryan</title>
+      <link>http://localhost:1313/author/casey-m-ryan/</link>
+    </image>
+    
+    <item>
+      <title>Hundreds of millions of people in the tropics need both wild harvests and other forms of economic development for their well-being</title>
+      <link>http://localhost:1313/publication/wells-2024-hundreds/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wells-2024-hundreds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millions of People in the Tropics Harvest Wild Resources, but Other Socio-Economic Factors Are also Important for Their Wellbeing</title>
+      <link>http://localhost:1313/publication/wells-2023-millions/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wells-2023-millions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

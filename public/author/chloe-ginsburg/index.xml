@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chloe Ginsburg | REaLL</title>
+    <link>http://localhost:1313/author/chloe-ginsburg/</link>
+      <atom:link href="http://localhost:1313/author/chloe-ginsburg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chloe Ginsburg</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Chloe Ginsburg</title>
+      <link>http://localhost:1313/author/chloe-ginsburg/</link>
+    </image>
+    
+    <item>
+      <title>How do practitioners characterize land tenure security?</title>
+      <link>http://localhost:1313/publication/masuda-2020-practitioners/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/masuda-2020-practitioners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating land tenure security into conservation</title>
+      <link>http://localhost:1313/publication/robinson-2018-incorporating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/robinson-2018-incorporating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raphael Arku | REaLL</title>
+    <link>http://localhost:1313/author/raphael-arku/</link>
+      <atom:link href="http://localhost:1313/author/raphael-arku/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raphael Arku</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Raphael Arku</title>
+      <link>http://localhost:1313/author/raphael-arku/</link>
+    </image>
+    
+    <item>
+      <title>Geospatial modelling and socioeconomic inequalities of transportation, human, and nature-based sounds in Accra, Ghana</title>
+      <link>http://localhost:1313/publication/clark-2023-geospatial/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/clark-2023-geospatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying deprived “slum” neighbourhoods in the Greater Accra Metropolitan Area of Ghana using census and remote sensing data</title>
+      <link>http://localhost:1313/publication/mactavish-2023-identifying/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mactavish-2023-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strangers in a strange land: Mapping household and neighbourhood associations with improved wellbeing outcomes in Accra, Ghana</title>
+      <link>http://localhost:1313/publication/cavanaugh-2023-strangers/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cavanaugh-2023-strangers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying within-city inequalities in child mortality across neighbourhoods in Accra, Ghana.</title>
+      <link>http://localhost:1313/publication/bennett-2021-quantifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bennett-2021-quantifying/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

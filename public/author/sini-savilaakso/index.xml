@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sini Savilaakso | REaLL</title>
+    <link>http://localhost:1313/author/sini-savilaakso/</link>
+      <atom:link href="http://localhost:1313/author/sini-savilaakso/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sini Savilaakso</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Sini Savilaakso</title>
+      <link>http://localhost:1313/author/sini-savilaakso/</link>
+    </image>
+    
+    <item>
+      <title>Strategy games to improve environmental policymaking</title>
+      <link>http://localhost:1313/publication/garcia-2022-strategy/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garcia-2022-strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Before the Next COP: How to Stop Missing our Environmental Policy Targets</title>
+      <link>http://localhost:1313/publication/garcia-2021-before/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garcia-2021-before/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The global forest transition as a human affair</title>
+      <link>http://localhost:1313/publication/garcia-2020-global/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garcia-2020-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To bend the curve of terrestrial biodiversity, place agency centre stage</title>
+      <link>http://localhost:1313/publication/garcia-2020-bend/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garcia-2020-bend/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

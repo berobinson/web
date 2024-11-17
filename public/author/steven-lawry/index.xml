@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven Lawry | REaLL</title>
+    <link>http://localhost:1313/author/steven-lawry/</link>
+      <atom:link href="http://localhost:1313/author/steven-lawry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steven Lawry</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Steven Lawry</title>
+      <link>http://localhost:1313/author/steven-lawry/</link>
+    </image>
+    
+    <item>
+      <title>How does indigeneity influence socio-ecological conditions in community forests?: A systematic review protocol</title>
+      <link>http://localhost:1313/publication/holland-2017-does/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/holland-2017-does/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the global governance context for land tenure security</title>
+      <link>http://localhost:1313/publication/kelly-2017-mapping/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kelly-2017-mapping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>George Owusu | REaLL</title>
+    <link>http://localhost:1313/author/george-owusu/</link>
+      <atom:link href="http://localhost:1313/author/george-owusu/index.xml" rel="self" type="application/rss+xml" />
+    <description>George Owusu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>George Owusu</title>
+      <link>http://localhost:1313/author/george-owusu/</link>
+    </image>
+    
+    <item>
+      <title>From consumption to context: assessing poverty and inequality across diverse socio-ecological systems in Ghana</title>
+      <link>http://localhost:1313/publication/cavanaugh-2024-consumption/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cavanaugh-2024-consumption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping socio-economic status using mixed data: a hierarchical Bayesian approach</title>
+      <link>http://localhost:1313/publication/virgili-2024-mapping/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/virgili-2024-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying deprived “slum” neighbourhoods in the Greater Accra Metropolitan Area of Ghana using census and remote sensing data</title>
+      <link>http://localhost:1313/publication/mactavish-2023-identifying/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mactavish-2023-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing the links between secure housing tenure and health for more equitable cities</title>
+      <link>http://localhost:1313/publication/baumgartner-2023-synthesizing/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/baumgartner-2023-synthesizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial heterogeneity in drinking water sources in the Greater Accra Metropolitan Area (GAMA), Ghana</title>
+      <link>http://localhost:1313/publication/tetteh-2022-spatial/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tetteh-2022-spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying within-city inequalities in child mortality across neighbourhoods in Accra, Ghana.</title>
+      <link>http://localhost:1313/publication/bennett-2021-quantifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bennett-2021-quantifying/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

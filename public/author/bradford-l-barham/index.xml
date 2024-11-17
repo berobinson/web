@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bradford L Barham | REaLL</title>
+    <link>http://localhost:1313/author/bradford-l-barham/</link>
+      <atom:link href="http://localhost:1313/author/bradford-l-barham/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bradford L Barham</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Bradford L Barham</title>
+      <link>http://localhost:1313/author/bradford-l-barham/</link>
+    </image>
+    
+    <item>
+      <title>Are there spatial spillovers in the adoption of clean technology? The case of organic dairy farming</title>
+      <link>http://localhost:1313/publication/lewis-2011-there/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lewis-2011-there/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James D Ford | REaLL</title>
+    <link>http://localhost:1313/author/james-d-ford/</link>
+      <atom:link href="http://localhost:1313/author/james-d-ford/index.xml" rel="self" type="application/rss+xml" />
+    <description>James D Ford</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>James D Ford</title>
+      <link>http://localhost:1313/author/james-d-ford/</link>
+    </image>
+    
+    <item>
+      <title>Participatory modeling of water vulnerability in remote Alaskan households using causal loop diagrams</title>
+      <link>http://localhost:1313/publication/sohns-2021-participatory/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sohns-2021-participatory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water vulnerability in arctic households</title>
+      <link>http://localhost:1313/publication/sohns-2019-water/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sohns-2019-water/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do capital asset interactions affect livelihood sensitivity to climatic stresses? Insights from the northeastern floodplains of Bangladesh</title>
+      <link>http://localhost:1313/publication/rahman-2018-capital/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rahman-2018-capital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Livelihood exposure to climatic stresses in the north-eastern floodplains of Bangladesh</title>
+      <link>http://localhost:1313/publication/rahman-2018-livelihood/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rahman-2018-livelihood/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

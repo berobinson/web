@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thesis | REaLL</title>
+    <link>http://localhost:1313/publication-type/thesis/</link>
+      <atom:link href="http://localhost:1313/publication-type/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thesis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Thesis</title>
+      <link>http://localhost:1313/publication-type/thesis/</link>
+    </image>
+    
+    <item>
+      <title>Getting more from forests: the effects of management, competition and spatial characteristics on forest livelihoods</title>
+      <link>http://localhost:1313/publication/robinson-2011-getting/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/robinson-2011-getting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Household adoption of ecological sanitation: an assessment of agricultural value and user perspectives in Nyanza Province, Kenya</title>
+      <link>http://localhost:1313/publication/robinson-2005-household/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/robinson-2005-household/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

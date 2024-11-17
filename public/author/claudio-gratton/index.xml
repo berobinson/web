@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claudio Gratton | REaLL</title>
+    <link>http://localhost:1313/author/claudio-gratton/</link>
+      <atom:link href="http://localhost:1313/author/claudio-gratton/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claudio Gratton</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Claudio Gratton</title>
+      <link>http://localhost:1313/author/claudio-gratton/</link>
+    </image>
+    
+    <item>
+      <title>Measuring what matters: actionable information for conservation biocontrol in multifunctional landscapes</title>
+      <link>http://localhost:1313/publication/chaplin-2019-measuring/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chaplin-2019-measuring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

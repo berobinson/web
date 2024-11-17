@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Matheson | REaLL</title>
+    <link>http://localhost:1313/author/tom-matheson/</link>
+      <atom:link href="http://localhost:1313/author/tom-matheson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tom Matheson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Tom Matheson</title>
+      <link>http://localhost:1313/author/tom-matheson/</link>
+    </image>
+    
+    <item>
+      <title>From molecules to management: mechanisms and consequences of locust phase polyphenism</title>
+      <link>http://localhost:1313/publication/cullen-2017-molecules/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cullen-2017-molecules/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

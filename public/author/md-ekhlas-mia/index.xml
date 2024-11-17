@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Md Ekhlas Mia | REaLL</title>
+    <link>http://localhost:1313/author/md-ekhlas-mia/</link>
+      <atom:link href="http://localhost:1313/author/md-ekhlas-mia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Md Ekhlas Mia</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Md Ekhlas Mia</title>
+      <link>http://localhost:1313/author/md-ekhlas-mia/</link>
+    </image>
+    
+    <item>
+      <title>Livelihood exposure to climatic stresses in the north-eastern floodplains of Bangladesh</title>
+      <link>http://localhost:1313/publication/rahman-2018-livelihood/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rahman-2018-livelihood/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

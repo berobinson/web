@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cong Li | REaLL</title>
+    <link>http://localhost:1313/author/cong-li/</link>
+      <atom:link href="http://localhost:1313/author/cong-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cong Li</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Cong Li</title>
+      <link>http://localhost:1313/author/cong-li/</link>
+    </image>
+    
+    <item>
+      <title>Comparing the importance of farming resource endowments and agricultural livelihood diversification for agricultural sustainability from the perspective of the food--energy--water nexus</title>
+      <link>http://localhost:1313/publication/peng-2022-comparing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/peng-2022-comparing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The limits of livelihood diversification and sustainable household well-being, evidence from China</title>
+      <link>http://localhost:1313/publication/peng-2022-limits/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/peng-2022-limits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecosystem service synergies/trade-offs informing the supply-demand match of ecosystem services: Framework and application</title>
+      <link>http://localhost:1313/publication/wang-2019-ecosystem/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2019-ecosystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realizing the values of natural capital for inclusive, sustainable development: Informing China’s new ecological development strategy</title>
+      <link>http://localhost:1313/publication/zheng-2019-realizing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zheng-2019-realizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telecoupled sustainable livelihoods in an era of rural--urban dynamics: The case of China</title>
+      <link>http://localhost:1313/publication/peng-2019-telecoupled/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/peng-2019-telecoupled/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Household livelihood strategy choices, impact factors, and environmental consequences in Miyun reservoir watershed, China</title>
+      <link>http://localhost:1313/publication/peng-2017-household/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/peng-2017-household/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

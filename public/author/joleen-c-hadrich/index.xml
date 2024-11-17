@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joleen C Hadrich | REaLL</title>
+    <link>http://localhost:1313/author/joleen-c-hadrich/</link>
+      <atom:link href="http://localhost:1313/author/joleen-c-hadrich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joleen C Hadrich</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Joleen C Hadrich</title>
+      <link>http://localhost:1313/author/joleen-c-hadrich/</link>
+    </image>
+    
+    <item>
+      <title>A factor-income approach to estimating grassland protection subsidy payments to livestock herders in Inner Mongolia, China</title>
+      <link>http://localhost:1313/publication/byrne-2020-factor/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/byrne-2020-factor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do herders do well? Profitability potential of livestock grazing in Inner Mongolia, China, across ecosystem types</title>
+      <link>http://localhost:1313/publication/li-2018-herders/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2018-herders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From molecules to management: mechanisms and consequences of locust phase polyphenism</title>
+      <link>http://localhost:1313/publication/cullen-2017-molecules/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cullen-2017-molecules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Living with locusts: connecting soil nitrogen, locust outbreaks, livelihoods, and livestock markets</title>
+      <link>http://localhost:1313/publication/cease-2015-living/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cease-2015-living/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

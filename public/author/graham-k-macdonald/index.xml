@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graham K MacDonald | REaLL</title>
+    <link>http://localhost:1313/author/graham-k-macdonald/</link>
+      <atom:link href="http://localhost:1313/author/graham-k-macdonald/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graham K MacDonald</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Graham K MacDonald</title>
+      <link>http://localhost:1313/author/graham-k-macdonald/</link>
+    </image>
+    
+    <item>
+      <title>Quantifying the foodshed: a systematic review of urban food flow and local food self-sufficiency research</title>
+      <link>http://localhost:1313/publication/schreiber-2021-quantifying/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/schreiber-2021-quantifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geographic versus institutional drivers of nitrogen footprints: a comparison of two urban universities</title>
+      <link>http://localhost:1313/publication/macdonald-2020-geographic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/macdonald-2020-geographic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rural-urban connectivity and agricultural land management across the Global South</title>
+      <link>http://localhost:1313/publication/boudet-2020-rural/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/boudet-2020-rural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
