@@ -18,82 +18,6 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/anamika-das/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication-type/article-journal/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/be-robinson/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/brian-robinson/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/geoff-wells/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/gk-macdonald/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/gm-hickey/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/gs-metson/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/dascommon/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/k-schreiber/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/kate-schreckenberg/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/mahesh-poudyal/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/schreibers-1/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/sharachchandra-lele/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/siddappa-shetty/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/suman-attiwilli/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/author/tim-m-daw/</loc>
-    <lastmod>2024-11-17T21:15:18+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -138,6 +62,14 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/author/anamika-das/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication-type/article-journal/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/author/blane-harvey/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -147,6 +79,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/brian-e-robinson/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/brian-robinson/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -222,6 +158,10 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/author/geoff-wells/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/author/george-owusu/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -243,6 +183,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/honor-r-bixby/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/das-2024-common/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -282,6 +226,10 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/author/kate-schreckenberg/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/author/katherine-m-homewood/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -303,6 +251,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/luci-lu/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/mahesh-poudyal/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -346,6 +298,14 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/author/rafael-calderon-contreras/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -362,11 +322,23 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/author/sharachchandra-lele/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/author/shoki-aldobai/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/siddappa-setty/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/siddappa-shetty/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/suman-attiwilli/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -383,6 +355,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/tim-daw/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/tim-m-daw/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1011,6 +987,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/author/ariel-benyishay/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/author/be-robinson/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
